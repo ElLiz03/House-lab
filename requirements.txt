@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 =======
-streamlit>=1.28.0
 >>>>>>> ee45dcd8700c8dc8308cf0b5be93a2db567d744f
 pandas>=1.5.0
 numpy>=1.21.0
