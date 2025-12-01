@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-=======
->>>>>>> ee45dcd8700c8dc8308cf0b5be93a2db567d744f
 pandas>=1.5.0
 numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
-<<<<<<< HEAD
 scikit-learn>=1.0.0
 plotly>=5.0.0
 statsmodels>=0.13.0
@@ -14,7 +10,5 @@ factor-analyzer>=0.4.0
 jupyter>=1.0.0
 notebook>=6.0.0
 ipykernel>=6.0.0
-=======
 plotly>=5.10.0
 scikit-learn>=1.0.0
->>>>>>> ee45dcd8700c8dc8308cf0b5be93a2db567d744f
